@@ -23,7 +23,7 @@
     message_usage:        .string "Il faut au moins 2 arguments !\n"
     message_non:         .string "\nAnalyse : NON, mauvais parenthesage\n\n"
     message_oui:          .string "\nAnalyse : OUI\n"
-    sautdeligne:          .string "\n"
+    
 
 
 .text
