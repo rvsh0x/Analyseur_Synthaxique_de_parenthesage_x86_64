@@ -1,7 +1,7 @@
 #============================================================
 # PROJET PROGRAMMATION ASSEMBLEUR
 #
-# Ghodbane Rachid 
+# GHODBANE RACHID  
 #
 # Ce programme vérifie si la chaîne d'arguments passées en entrée contient des paires valides de parenthèses, elles même passées en entrée.
 #
